@@ -2,6 +2,8 @@
 name = "matrixnum"
 version = "0.1.0"
 authors = ["Afshin Mehrabani <afshin.meh@gmail.com>"]
+description = "Makes it easier to work with Matrix"
+license = "GPL-3.0"
 
 [dependencies]
 assert_approx_eq = "1.0.0"
