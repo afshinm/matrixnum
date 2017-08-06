@@ -1,0 +1,8 @@
+[package]
+name = "matrixnum"
+version = "0.1.0"
+authors = ["Afshin Mehrabani <afshin.meh@gmail.com>"]
+
+[dependencies]
+assert_approx_eq = "1.0.0"
+rand = "0.3.15"
