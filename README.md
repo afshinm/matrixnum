@@ -1,4 +1,4 @@
-# Matrixnum
+# Matrixnum [![](https://img.shields.io/crates/v/matrixnum.svg)](https://crates.io/crates/matrixnum)
 
 Makes it easier to work with Matrix in Rust
 
